@@ -1,0 +1,24 @@
+.container{
+    color: white;
+    min-height: 100vh;
+}
+.common { 
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.btn{
+    padding: 10px;
+    font-size: 1.3rem;
+    border-radius: 10px;
+    color: white;
+    background-color: transparent;
+    cursor: pointer;
+    border-color: white;
+    margin-top: 20px;
+}
+
+input{
+    background-color: transparent;
+    color: white;
+}

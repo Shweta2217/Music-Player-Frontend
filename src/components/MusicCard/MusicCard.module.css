@@ -1,0 +1,35 @@
+.cardContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 30px 50px;
+    width: 200px;
+    /* border: 0.5px solid #1976d2; */
+
+    
+}
+span{
+    color: white;
+    font-size: 1.2rem;
+    margin: 5px 10px ;
+    text-align: center;
+}
+.cardImage{
+    height: 180px;
+    width: 100%;
+    border-radius: 100%;
+}
+
+.playBtn{
+    border: 0;
+    padding: 10px;
+    font-size: 1.2rem;
+    background-color: #1976d2;
+    border-radius: 20px;
+    color: white;
+
+}
+.playBtn:hover{
+    
+    cursor: pointer;
+}
+
